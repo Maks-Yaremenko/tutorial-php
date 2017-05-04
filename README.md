@@ -1,5 +1,5 @@
 # tutorial-php
 
-## start project learning PHP
+### Start project learning PHP
 
-## this is first test README.md without any useful information about.
+### This is first test README.md without any useful information about.
